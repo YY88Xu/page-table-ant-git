@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.css';
+.App {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.pageTabe{
+  width: 70%;
+
+}
